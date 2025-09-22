@@ -45,9 +45,7 @@ This is one way to run your app — you can also build it directly from Android 
 ## TV
 
 |<img width="378" height="200" alt="egpTV" src="https://github.com/user-attachments/assets/f92a5e90-2320-490d-93ab-f28b46b77336" />
-|<img width="378" height="200" alt="playTV" src="https://github.com/user-attachments/assets/b02398e8-0538-4b3b-b16b-fa9c45c8a0ab" />
-|<img width="378" height="200" alt="listTV" src="https://github.com/user-attachments/assets/8625f4c4-8d57-42af-8612-32a5fca4ecc7" />  
 
-|<img width="378" height="200" alt="listTVpart2" src="https://github.com/user-attachments/assets/9d59b498-6069-4328-97b3-c4ac0279c9a4" />
-|<img width="378" height="200" alt="playTVpart2" src="https://github.com/user-attachments/assets/635bf4b5-00b1-4d34-a96b-47d0f413ac35" />
+<img width="378" height="200" alt="playTV" src="https://github.com/user-attachments/assets/b02398e8-0538-4b3b-b16b-fa9c45c8a0ab" />|<img width="378" height="200" alt="playTVpart2" src="https://github.com/user-attachments/assets/635bf4b5-00b1-4d34-a96b-47d0f413ac35" />
+|<img width="378" height="200" alt="listTV" src="https://github.com/user-attachments/assets/8625f4c4-8d57-42af-8612-32a5fca4ecc7" />|<img width="378" height="200" alt="listTVpart2" src="https://github.com/user-attachments/assets/9d59b498-6069-4328-97b3-c4ac0279c9a4" />
 
