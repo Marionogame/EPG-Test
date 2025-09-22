@@ -31,7 +31,19 @@ This is one way to run your app — you can also build it directly from Android 
 - The program depends on the device’s time, so it must always be updated.  
 - The project was developed without third-party frameworks (e.g., Expo).  
 - The appropriate libraries were implemented to cover the project requirements.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+### Assets
+
+| <img width="387" height="891" alt="egp" src="https://github.com/user-attachments/assets/7544d176-827e-4514-b733-01e694331595" />
+| <img width="387" height="893" alt="play" src="https://github.com/user-attachments/assets/bead6247-43c1-4160-bd61-0e58c4a1d770" />
+ |<img width="391" height="898" alt="list" src="https://github.com/user-attachments/assets/32440d56-a27f-4f59-82d3-df0d534c9148" />
+ |<img width="978" height="581" alt="listTVpart2" src="https://github.com/user-attachments/assets/9d59b498-6069-4328-97b3-c4ac0279c9a4" />
+ |
+|---------------|---------------|---------------|---------------|
+| <img width="978" height="580" alt="playTV" src="https://github.com/user-attachments/assets/b02398e8-0538-4b3b-b16b-fa9c45c8a0ab" />
+
+|<img width="978" height="581" alt="listTV" src="https://github.com/user-attachments/assets/8625f4c4-8d57-42af-8612-32a5fca4ecc7" />  |
+<img width="977" height="581" alt="egpTV" src="https://github.com/user-attachments/assets/f92a5e90-2320-490d-93ab-f28b46b77336" />
+
+|<img width="980" height="582" alt="playTVpart2" src="https://github.com/user-attachments/assets/635bf4b5-00b1-4d34-a96b-47d0f413ac35" />
+ |
