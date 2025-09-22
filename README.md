@@ -32,7 +32,7 @@ This is one way to run your app — you can also build it directly from Android 
 - The project was developed without third-party frameworks (e.g., Expo).  
 - The appropriate libraries were implemented to cover the project requirements.
 
-### Assets
+# Assets
 
 ## Mobile
 
