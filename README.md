@@ -28,7 +28,7 @@ This is one way to run your app — you can also build it directly from Android 
 
 ## Key considerations
 
-- The program depends on the device’s time, so it must always be updated.  
+- The program depends on the device date and the Mock-API date, they must always be synchronized.  
 - The project was developed without third-party frameworks (e.g., Expo).  
 - The appropriate libraries were implemented to cover the project requirements.
 
